@@ -1,0 +1,207 @@
+
+/* Class = "IBUILabel"; text = "Centile"; ObjectID = "0AR-vi-jMk"; */
+"0AR-vi-jMk.text" = "Centile";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "2Os-JV-CUO"; */
+"2Os-JV-CUO.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Calendar Age"; ObjectID = "4dp-xF-e68"; */
+"4dp-xF-e68.text" = "Calendar Age";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "51D-4I-XqS"; */
+"51D-4I-XqS.text" = "Label";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Calculate"; ObjectID = "6bT-06-Jns"; */
+"6bT-06-Jns.headerTitle" = "Calculate";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "7Hj-N0-deF"; */
+"7Hj-N0-deF.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "8hg-cs-KVG"; */
+"8hg-cs-KVG.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Calculate"; ObjectID = "8jX-Ms-iJW"; */
+"8jX-Ms-iJW.normalTitle" = "Calculate";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "9KY-Ba-978"; */
+"9KY-Ba-978.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Centile"; ObjectID = "9LU-ZY-mrH"; */
+"9LU-ZY-mrH.text" = "Centile";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "BJz-JU-NXD"; */
+"BJz-JU-NXD.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "BbF-Uj-uwZ"; */
+"BbF-Uj-uwZ.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "C5p-RB-GqL"; */
+"C5p-RB-GqL.text" = "Title";
+
+/* Class = "IBUINavigationItem"; title = "Results"; ObjectID = "Cel-mP-AHE"; */
+"Cel-mP-AHE.title" = "Results";
+
+/* Class = "IBUILabel"; text = "95% mBMI"; ObjectID = "D7n-XC-Xbu"; */
+"D7n-XC-Xbu.text" = "95% mBMI";
+
+/* Class = "IBUILabel"; text = "Weight:"; ObjectID = "FBp-Uw-CP9"; */
+"FBp-Uw-CP9.text" = "Weight:";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "JPh-BU-DaH"; */
+"JPh-BU-DaH.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "BMI"; ObjectID = "LAh-FF-fOC"; */
+"LAh-FF-fOC.text" = "BMI";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "LL9-Xa-NmJ"; */
+"LL9-Xa-NmJ.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Clinic Date"; ObjectID = "N5j-Hq-Nkc"; */
+"N5j-Hq-Nkc.text" = "Clinic Date";
+
+/* Class = "IBUILabel"; text = "Decimal Age"; ObjectID = "N7D-1p-OUc"; */
+"N7D-1p-OUc.text" = "Decimal Age";
+
+/* Class = "IBUILabel"; text = "SDS"; ObjectID = "QLd-fp-gh9"; */
+"QLd-fp-gh9.text" = "SDS";
+
+/* Class = "IBUITextField"; placeholder = "cm"; ObjectID = "Quf-pI-T6v"; */
+"Quf-pI-T6v.placeholder" = "cm";
+
+/* Class = "IBUIButton"; normalTitle = "Calculate"; ObjectID = "R8K-GY-0xs"; */
+"R8K-GY-0xs.normalTitle" = "Calculate";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Rqh-3o-Xrz"; */
+"Rqh-3o-Xrz.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Weights For Target"; ObjectID = "UhX-xl-d5N"; */
+"UhX-xl-d5N.text" = "Weights For Target";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "W0j-rg-yzW"; */
+"W0j-rg-yzW.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Centile"; ObjectID = "WNK-9q-1De"; */
+"WNK-9q-1De.text" = "Centile";
+
+/* Class = "IBUILabel"; text = "Date of Birth"; ObjectID = "WSF-uj-QRW"; */
+"WSF-uj-QRW.text" = "Date of Birth";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Wvc-8o-c0X"; */
+"Wvc-8o-c0X.text" = "Label";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Measurements"; ObjectID = "XcA-xC-7Oi"; */
+"XcA-xC-7Oi.headerTitle" = "Measurements";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "ZM5-sa-n59"; */
+"ZM5-sa-n59.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "50th Centile BMI (100%)"; ObjectID = "ZsB-lF-Acg"; */
+"ZsB-lF-Acg.text" = "50th Centile BMI (100%)";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "bXG-8v-KWi"; */
+"bXG-8v-KWi.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "cIy-na-CnO"; */
+"cIy-na-CnO.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "Marsipan Guidance"; ObjectID = "cwS-UF-Tnl"; */
+"cwS-UF-Tnl.title" = "Marsipan Guidance";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "d9s-ym-fHK"; */
+"d9s-ym-fHK.text" = "Label";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Dates"; ObjectID = "dSN-eN-KbG"; */
+"dSN-eN-KbG.headerTitle" = "Dates";
+
+/* Class = "IBUINavigationItem"; title = "Marsipan Risk Assement Tool"; ObjectID = "dTX-PV-wxM"; */
+"dTX-PV-wxM.title" = "Marsipan Risk Assement Tool";
+
+/* Class = "IBUINavigationItem"; title = "Marsipan Risk Assessment"; ObjectID = "ddz-GF-Vnr"; */
+"ddz-GF-Vnr.title" = "Marsipan Risk Assessment";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "e8G-on-Ur4"; */
+"e8G-on-Ur4.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "eyC-yd-hYj"; */
+"eyC-yd-hYj.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Height"; ObjectID = "f6B-Ph-Z9D"; */
+"f6B-Ph-Z9D.text" = "Height";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "gg0-qe-gMb"; */
+"gg0-qe-gMb.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "Information"; ObjectID = "hTL-Bc-rIo"; */
+"hTL-Bc-rIo.title" = "Information";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "iT3-8G-I9x"; */
+"iT3-8G-I9x.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Height:"; ObjectID = "jCj-Dd-oxl"; */
+"jCj-Dd-oxl.text" = "Height:";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "jgS-ob-XcO"; */
+"jgS-ob-XcO.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Sex"; ObjectID = "kBn-nt-U0T"; */
+"kBn-nt-U0T.text" = "Sex";
+
+/* Class = "IBUILabel"; text = "percent Median BMI calculator"; ObjectID = "kJz-56-bxf"; */
+"kJz-56-bxf.text" = "percent Median BMI calculator";
+
+/* Class = "IBUILabel"; text = "SDS"; ObjectID = "nKl-JZ-89k"; */
+"nKl-JZ-89k.text" = "SDS";
+
+/* Class = "IBUILabel"; text = "Date of Birth"; ObjectID = "oXB-B3-7HW"; */
+"oXB-B3-7HW.text" = "Date of Birth";
+
+/* Class = "IBUILabel"; text = "90% mBMI"; ObjectID = "onj-AF-h7I"; */
+"onj-AF-h7I.text" = "90% mBMI";
+
+/* Class = "IBUILabel"; text = "9th Centile BMI"; ObjectID = "q1O-W3-2MA"; */
+"q1O-W3-2MA.text" = "9th Centile BMI";
+
+/* Class = "IBUILabel"; text = "SDS"; ObjectID = "q7e-QI-MNT"; */
+"q7e-QI-MNT.text" = "SDS";
+
+/* Class = "IBUILabel"; text = "% median BMI"; ObjectID = "qOD-By-klj"; */
+"qOD-By-klj.text" = "% median BMI";
+
+/* Class = "IBUILabel"; text = "Weight"; ObjectID = "sFd-Aa-eY9"; */
+"sFd-Aa-eY9.text" = "Weight";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "sew-Ac-Xc5"; */
+"sew-Ac-Xc5.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "t5J-KH-eDd"; */
+"t5J-KH-eDd.text" = "Label";
+
+/* Class = "IBUILabel"; text = "IOTF"; ObjectID = "tJb-KQ-lvP"; */
+"tJb-KQ-lvP.text" = "IOTF";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "usz-iz-Hft"; */
+"usz-iz-Hft.text" = "Label";
+
+/* Class = "IBUILabel"; text = "85% mBMI"; ObjectID = "ve0-fj-0wZ"; */
+"ve0-fj-0wZ.text" = "85% mBMI";
+
+/* Class = "IBUILabel"; text = "Clinic Date"; ObjectID = "wht-1b-O0E"; */
+"wht-1b-O0E.text" = "Clinic Date";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "wqn-gd-sAA"; */
+"wqn-gd-sAA.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Risk Assessment Tool"; ObjectID = "wym-9K-Zov"; */
+"wym-9K-Zov.text" = "Risk Assessment Tool";
+
+/* Class = "IBUIBarButtonItem"; title = "Done"; ObjectID = "xos-9X-VKy"; */
+"xos-9X-VKy.title" = "Done";
+
+/* Class = "IBUITextField"; placeholder = "kg"; ObjectID = "yFo-pq-SSV"; */
+"yFo-pq-SSV.placeholder" = "kg";
+
+/* Class = "IBUINavigationItem"; title = "Marsipan"; ObjectID = "zbA-62-fXe"; */
+"zbA-62-fXe.title" = "Marsipan";
+
+/* Class = "IBUILabel"; text = "91st Centile BMI"; ObjectID = "zkz-Rn-UZM"; */
+"zkz-Rn-UZM.text" = "91st Centile BMI";
